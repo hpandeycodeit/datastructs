@@ -1,4 +1,4 @@
-package algorithmsAndDSnew;
+package algorithmsAndDS;
 
 /**
  * Basic Implementation of Stack Data Structure
